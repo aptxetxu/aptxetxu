@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aptxetxu, a full-stack developer
+- 👀 I’m interested in React, React native and Angular 
+- 🌱 I’m currently learning React Native
+- 💞️ I use to develop in C# or Java
